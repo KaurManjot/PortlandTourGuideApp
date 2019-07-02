@@ -5,15 +5,15 @@ public class Location {
     private int image;
     private String name;
     private String streetAddress;
-    private String hours;
-    private String travelTime;
+    private String visitingHours;
+    private float rating;
 
-    public Location(int image, String name, String streetAddress, String hours, String travelTime) {
+    public Location(int image, String name, String streetAddress, String visitingHours, float rating) {
         this.image = image;
         this.name = name;
         this.streetAddress = streetAddress;
-        this.hours = hours;
-        this.travelTime = travelTime;
+        this.visitingHours = visitingHours;
+        this.rating = rating;
     }
 
     public int getImage() {
@@ -28,11 +28,11 @@ public class Location {
         return streetAddress;
     }
 
-    public String getHours() {
-        return hours;
+    public String getVisitingHours() {
+        return visitingHours;
     }
 
-    public String getTravelTime() {
-        return travelTime;
+    public float getRating() {
+        return rating;
     }
 }

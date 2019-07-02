@@ -1,8 +1,52 @@
 <resources>
     <string name="app_name">Portland City Guide</string>
 
+    <string name="imageContentDesc">Portland City Location</string>
     <string name="attractions">Attractions</string>
     <string name="restaurants">Restaurants</string>
     <string name="parks">Parks</string>
     <string name="markets">Markets</string>
+
+    <!--Attractions-->
+    <string name="location1">Portland Old City</string>
+    <string name="location2">Lan Su Chinese Garden</string>
+    <string name="location3">Portland Japanese Garden</string>
+    <string name="location4">Portland head Light</string>
+    <string name="location5">Tom McCall Waterfront</string>
+
+    <!--Restaurants-->
+    restaurant
+    <string name="restaurant1">Pizza House</string>
+    <string name="restaurant2">House of Pancakes</string>
+    <string name="restaurant3">Fine Dine</string>
+    <string name="restaurant4">Apple Pie</string>
+    <string name="restaurant5">Chef Nok</string>
+
+    <!--Parks-->
+    <string name="park1">Tulip Park</string>
+    <string name="park2">Ducks Park</string>
+    <string name="park3">Tualatin Hills Park</string>
+    <string name="park4">Silver Creek Park</string>
+    <string name="park5">Trail of Bridges</string>
+
+    <!--Markets-->
+    <string name="market1">Portland Handmade Jewelry</string>
+    <string name="market2">Saturday farmers Market</string>
+    <string name="market3">Beaverton Local Market</string>
+    <string name="market4">Fish Place</string>
+    <string name="market5">Waterfront Crafts</string>
+
+    <!--Addresses-->
+    <string name="address1">1414 North Up Street</string>
+    <string name="address2">239 NW Everett St</string>
+    <string name="address3">611 SW Kingston Ave</string>
+    <string name="address4">101 SW Butner Rd</string>
+    <string name="address5">98 SW Naito Pkwy</string>
+
+    <!--Visiting hours-->
+    <string name="visitingHours1">9:00AM-7:00PM</string>
+    <string name="visitingHours2">10:00AM-6:00PM</string>
+    <string name="visitingHours3">8:00AM-7:00PM</string>
+    <string name="visitingHours4">6:00AM-6:00PM</string>
+    <string name="visitingHours5">9:00AM-7:00PM</string>
 </resources>
